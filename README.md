@@ -1,5 +1,5 @@
 # GridWorld_RL
-The first Reinforcement Learning grid world coursework completed. This involved writing Monte-carlo and temporal difference learning algorithms. On top of this, optimisation dynamic programming algorithms were written to determine the optimal value function.
+The first Reinforcement Learning grid world coursework completed. This involved writing Monte-carlo and temporal difference learning algorithms. On top of this, optimisation dynamic programming algorithms were written to determine the optimal value function. In the below diagrams, the yellow square is a reward absorbing state and the purple square is a penalty absorbing state.
 
 An example optimal policy generated: 
 
